@@ -1,1 +1,1 @@
-See documentation in public README.md for NBody: https://coursework.cs.duke.edu/201-public-documentation/P1-NBody/-/blob/main/README.md
+Java program which simulates the motion of N objects in a plane, mutually affected by gravitational forces, and animates the results.
